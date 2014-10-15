@@ -1,31 +1,31 @@
-SASS Example
-
+SASS Examples
+===================
 
 Getting Started
+---------------------
+
+
+*Documentation*
+
+>(Coming soon)
+
+
+*Examples*
+
+>(Coming soon)
+
+
+*Contributing*
 
 
 
-Documentation
+*Release History*
 
-(Coming soon)
-
-
-Examples
-
-(Coming soon)
+>(Nothing yet)
 
 
-Contributing
+*License*
 
-
-
-Release History
-
-(Nothing yet)
-
-
-
-License
-
-Copyright (c) 2012 "Cowboy" Ben Alman
+Copyright (c) 2012 DuarteAugust
 Licensed under the MIT license.
+<a href="www.duarteaugust.eu.pn">DuarteAugust</a>
