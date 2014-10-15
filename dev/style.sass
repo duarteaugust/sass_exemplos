@@ -1,0 +1,39 @@
+//Variáveis
+$cor: #444
+$red: #FF4800
+$fontsize: 12px
+
+h1
+  color: $red
+
+p
+  color: darken($red, 10%)
+
+
+h6
+  color: $cor
+
+
+//Mixins 
+
+@mixin border-radius($amount: 5px)
+  -moz-border-radius: $amount
+  -webkit-border-radius: $amount
+  border-radius: $amount
+
+h1
+  @include border-radius(2px)
+
+.speaker
+  @include border-radius
+
+
+
+  //Herança Selector
+
+  h1
+  border: 4px solid #ff9aa9
+
+.speaker
+  @extend h1
+  border-width: 2px

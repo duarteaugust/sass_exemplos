@@ -1,0 +1,32 @@
+{
+  "name": "sass_exemplos",
+  "version": "0.1.0",
+  "description": "testes com sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/duarteaugust/sass_exemplos.git"
+  },
+  "keywords": [
+    "pre",
+    "processadores",
+    "css",
+    "sass",
+    "scss"
+  ],
+  "author": "GAD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duarteaugust/sass_exemplos/issues"
+  },
+  "homepage": "https://github.com/duarteaugust/sass_exemplos",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-compass": "^1.0.1",
+    "grunt-contrib-sass": "^0.8.1",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
